@@ -1,2 +1,2 @@
-# neural_network_stocks
+# el stock predictor
 stocks and neural network fun. 
